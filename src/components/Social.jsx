@@ -32,7 +32,7 @@ export default function Social() {
                   CV <FaUser size={30} />
                 </>
             ),
-            href: "/resume.pdf",
+            href: "/mycover-letter.pdf",
             download: true,
            
         },
